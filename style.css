@@ -1,0 +1,20 @@
+nav {
+    height: 200vh;
+    background-color: red;
+}
+.brand-logo {
+    font-weight: bold;
+    color: #848484;
+}
+.carousel-item h5 {
+    font-weight: 600;
+}
+
+.carousel-item img {
+    border-radius: 3px;
+    border: 2px solid green;
+}
+
+footer {
+    margin-top: 330px;
+}
