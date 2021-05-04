@@ -1,1 +1,1 @@
-# 3D-carousell.-html-css
+# Materialize bo'yicha praxtika
